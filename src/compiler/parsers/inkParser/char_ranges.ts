@@ -1,0 +1,1 @@
+export const ExtendIdentifierCharacterRegex = new RegExp(/[0-9a-zA-Z\u0041-\u007A\u005B-\u0060\u0100-\u017F\u0180-\u024F\u0080-\u00FF]+/)
